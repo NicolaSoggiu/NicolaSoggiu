@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicola soggiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicola soggiu" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/nicola soggiu](https://www.linkedin.com/in/nicola-soggiu-2860ba285/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicola soggiu" height="30" width="40" /></a>
 <a href="https://instagram.com/nicola.soggiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicola.soggiu" height="30" width="40" /></a>
 </p>
 
